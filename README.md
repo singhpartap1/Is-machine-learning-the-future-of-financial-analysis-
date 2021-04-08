@@ -1,1 +1,3 @@
 # Is-machine-learning-the-future-of-financial-analysis-
+
+The objective of this project is to explore the reasoning and methodology of various machine learning models used in financial analysis. We hope to gain insights of how the capital market behaves under the lens of machine learning. Although many such models exist, this project will be  specifically focusing on regression based modes (i.e. multiple linear regression and polynomial regression), nonlinear models (i.e. decision tree and ensemble learning), as well as a neural network model (i.e. ANN and RNN-LSTM). The models will be evaluated on specific performance metrics unique to the model, then compared to each other to determine the optimal model for financial analysis.
